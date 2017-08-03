@@ -1,0 +1,50 @@
+body {
+/*    background-color: #ffeed0;*/
+    background-color: #3b3b3b;
+    font-family: 'Radley', serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, .navbar {
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 1px;
+}
+
+.text-muted {
+  color: #777;
+}
+
+.navbar-header .navbar {
+    background-color: #3b3b3b;
+}
+
+#navbar {
+    font-size: 12px;
+}
+
+.navbar a, .btn {
+    text-decoration: none;
+}
+
+.btn {
+    letter-spacing: normal;
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+
+a:visited {
+    color: #aaa;
+}
+
+a:hover {
+    color: darkorange;
+    text-decoration: none;
+}
+
+a:active {
+    color: #fff;
+}
